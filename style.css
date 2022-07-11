@@ -231,16 +231,12 @@ nav{
     
 }
 
-.footer__logo--img{
-    width: 70px;
-    height: 70px;
-}
 
 
 .footer__logo{
     display: flex;
     justify-content: center;
-    padding: px;
+    padding-bottom: 15px;
 }
 
 .footer__social--lists{
